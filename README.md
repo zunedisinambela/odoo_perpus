@@ -1,1 +1,1 @@
-# Odoo_module_perpus
+# odoo_perpus
